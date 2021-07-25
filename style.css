@@ -11,6 +11,15 @@ body{
     min-height: 100vh;
     background: #091921;
 }
+#name{
+    position: absolute;
+    margin-top: -500px;
+    text-align: center;
+    margin-left: 0px;
+    color: #fff;
+    font-size: 40px;
+}
+
 .clock{
     width: 350px;
     height: 350px;
